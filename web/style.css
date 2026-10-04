@@ -1,3 +1,11 @@
-.H-CENTER{
+.header{
+    text-align:left;
+    background-color:skyblue;
+}
+.nav{
     text-align:center;
+    background-color:skyblue;
+}
+.p1{
+    color:green;
 }
