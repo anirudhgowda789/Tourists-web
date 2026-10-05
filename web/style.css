@@ -14,5 +14,11 @@
 }
 .main{
     background-image:url('bn.jpg');
-    background-size:fixed;
+    background-size:cover;
+}
+.btn{
+    text-align:center;
+}
+.btn1{
+    text-align:center;
 }
