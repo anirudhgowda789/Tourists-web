@@ -9,3 +9,10 @@
 .p1{
     color:green;
 }
+.bg1{
+    background-color:lightblue;
+}
+.main{
+    background-image:url('bn.jpg');
+    background-size:fixed;
+}
