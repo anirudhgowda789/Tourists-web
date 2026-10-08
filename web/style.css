@@ -13,7 +13,7 @@
     background-color:lightblue;
 }
 .main{
-    background-image:url('bn.jpg');
+    
     background-size:cover;
 }
 .btn{
@@ -21,4 +21,16 @@
 }
 .btn1{
     text-align:center;
+}
+.clr{
+    color:green;
+    font-style:normal;
+    font-weight:Bold;
+
+}
+.txt{
+    font-size:50px
+}
+.para3{
+    font-size:20px;
 }
