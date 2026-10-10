@@ -2,12 +2,6 @@
     text-align:left;
     background-color:white;
 }
-.p1{
-    color:white;
-}
-.bg1{
-    background-color:lightblue;
-}
 .main{
     background-image:url("https://images.pexels.com/photos/1525041/pexels-photo-1525041.jpeg?cs=srgb&dl=pexels-francesco-ungaro-1525041.jpg&fm=jpg");
     background-size:cover;
@@ -20,6 +14,9 @@
 .btn1{
     text-align:center;
 }
+.btn2{
+    text-align:center;
+}
 .clr{
     color:green;
     font-style:normal;
@@ -30,20 +27,23 @@
     font-size:50px;
     color:white;
 }
-.para3{
-    font-size:20px;
-     color:white;
-}
-.para1{
-    color:grey;
-    font-style:italic;
-}
 .txt1{
     color:grey;
 }
 .txt2{
     color:black;
     font-size:56px;
+}    
+.p1{
+    color:white;
+}    
+.para1{
+    color:grey;
+    font-style:italic;
+}
+.para2{
+    font-size:20px;
+     color:white;
 }
 .img1{
     background-image:url("https://media.istockphoto.com/id/1157048446/photo/aerial-shot-of-the-beach-from-above-showing-sea-beach-mountain-and-a-coconut-plantation-goa.jpg?s=612x612&w=0&k=20&c=BE0ZCnKZj8xi9Zgx5meO77k-o8v8EPT9TwlsPvY3TMc=");
@@ -84,7 +84,7 @@
     background-color:lightblue;
 }
 .main{
-    background-image:url("https://images.pexels.com/photos/1525041/pexels-photo-1525041.jpeg?cs=srgb&dl=pexels-francesco-ungaro-1525041.jpg&fm=jpg");
+    background-image:url("https://sc04.alicdn.com/kf/H76830b8573cf4d66baec0864ef1514b4z.jpg");
     background-size:cover;
     height:80vh;
     width:100%;
@@ -125,8 +125,7 @@
     height:150px;
     width:150px;
     background-size: cover;
-    
-}
+    }
 .img2{
     background-image:url("https://media.istockphoto.com/id/505490132/photo/tea-plantations-and-river-in-hills.jpg?s=612x612&w=0&k=20&c=ipAMXQpv8OMaYWIDMqfvh56APw2BYivzarcXyeWkSGQ=");
     height:150px;
@@ -155,4 +154,28 @@
     background-size: cover;
     
 }
+.img6{
+    background-image:url("https://alleppey-houseboat.com/wp-content/uploads/2025/02/boat1.png");
+    height:150px;
+    width:150px;
+    background-size: cover;
+    
+}
+.img7{
+    background-image:url("https://www.authenticindiatours.com/app/uploads/2022/04/Thiksey-Monastery-Leh-Ladakh-Jammu-and-Kashmir-1400x550-c-default.jpg");
+    height:150px;
+    width:150px;
+    background-size: cover;
+    
+}
+.img8{
+    background-image:url("https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg/1280px-East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail");
+    height:150px;
+    width:150px;
+    background-size: cover;
+    
+}
+
+
+
 
