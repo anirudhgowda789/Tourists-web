@@ -36,12 +36,8 @@
     border-width: 0px;
 }
 
+
 .btn1 {
-    text-align: center;
-     height:36px;
-     width:138px;
-}
-.btn2 {
     text-align: center;
     height:36px;
     width:180px;
@@ -50,10 +46,10 @@
     border-radius:25px;
     border-width: 0px;
 }
-.btn3{
+.btn2{
     text-align:center;
 }
-.btn4{
+.btn3{
     text-align:center;
 }
 
