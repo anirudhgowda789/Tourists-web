@@ -10,9 +10,9 @@
     width: 100%;
     background-size: cover;
     border-top-left-radius: 25px;
-    border-top-right-radius: 25px;
-    border-bottom-left-radius: 25px;
-    border-bottom-right-radius: 25px;
+    border-top-right-radius: 250px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
     
 }
 
@@ -24,9 +24,7 @@
     text-align: left;
 }
 
-.bg1 {
-    background-color: lightblue;
-}
+
 
 .btn {
     text-align: center;
@@ -42,6 +40,21 @@
     text-align: center;
      height:36px;
      width:138px;
+}
+.btn2 {
+    text-align: center;
+    height:36px;
+    width:180px;
+    background-color:#ff1235;
+    color:white;
+    border-radius:25px;
+    border-width: 0px;
+}
+.btn3{
+    text-align:center;
+}
+.btn4{
+    text-align:center;
 }
 
 
