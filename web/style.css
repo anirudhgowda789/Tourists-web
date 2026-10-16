@@ -1,3 +1,10 @@
+.nav{
+    font-family:"Roboto";
+    font-size:20px;
+    font-style:italic;
+    color:grey;
+    word-spacing:120px;
+}
 .main-heading {
     text-align: left;
     background-color: white;
@@ -14,9 +21,9 @@
     padding:12px;
    }
 .main-heading2 {
-    background-image:url("https://i.postimg.cc/BbSrdQx7/Ani-Travel-Scenic-Logo.png");
+    background-image:url("https://i.postimg.cc/xCfYSRYS/ani-travel-logo-cropped.png");
     background-size: cover;
-    height:200px;
+    height:90px;
     width: 300px;
     text-align: left;
    }
@@ -119,4 +126,8 @@
      background-color: #D1FAE5;
      height:100px;
      padding:25px;
+   }
+   .paddingg{
+    padding:25px;
+    text-align:center;
    }
