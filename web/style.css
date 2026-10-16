@@ -14,10 +14,10 @@
     padding:12px;
    }
 .main-heading2 {
-    background-image: url("https://i.postimg.cc/qRvbBybR/Gemini-Generated-Image-3yfv003yfv003yfv.png");
+    background-image:url("https://i.postimg.cc/BbSrdQx7/Ani-Travel-Scenic-Logo.png");
     background-size: cover;
-    height: 180px;
-    width: 700px;
+    height:200px;
+    width: 300px;
     text-align: left;
    }
   .main-heading3{
@@ -77,9 +77,6 @@
 .text2 {
     font-size: 56px;
    }
-.paragraph1 {
-    font-style: italic;
-   }
 .paragraph2 {
     font-size: 20px;
     }
@@ -117,4 +114,9 @@
    }
 .img8 {
     background-image: url("https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg/1280px-East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail");
+   }
+.back1{
+     background-color: #D1FAE5;
+     height:100px;
+     padding:25px;
    }
