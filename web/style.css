@@ -20,6 +20,14 @@
     width: 700px;
     text-align: left;
    }
+  .main-heading3{
+    background-color: white;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    padding:12px;
+  }
  .bt0n{
     border-width:1px;
     border-radius:25px;
@@ -53,6 +61,16 @@
 .btn3{
     text-align:center;
    }
+.btn4{
+    text-align: center;
+    height:36px;
+    width:250px;
+    background-color:#ff1235;
+    color:white;
+    border-radius:25px;
+    border-width: 0px;
+
+}   
 .text {
     font-size: 50px;
    }   
@@ -65,6 +83,9 @@
 .paragraph2 {
     font-size: 20px;
     }
+.center{
+    text-align:center;
+    }    
 .img1, .img2, .img3, .img4, .img5, .img6, .img7, .img8 {
     height: 150px;
     width: 150px;
