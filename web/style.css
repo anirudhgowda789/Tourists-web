@@ -39,11 +39,11 @@
     border-width:1px;
     border-radius:25px;
     height:46px;
-    width: 400px;
+    width: 1000px;
     font-family: sans-serif;
     text-align:center;
 
- }  
+}  
 .btn0{
     text-align: center;
     height:36px;
@@ -91,13 +91,14 @@
     text-align:center;
     }    
 .img1, .img2, .img3, .img4, .img5, .img6, .img7, .img8 {
-    height: 150px;
-    width: 150px;
+    height: 250px;
+    width: 250px;
     background-size: cover;
     border-top-left-radius: 25px;
     border-top-right-radius: 25px;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
+    background-size:cover;
     }
 .img1{
     background-image: url("https://media.istockphoto.com/id/1157048446/photo/aerial-shot-of-the-beach-from-above-showing-sea-beach-mountain-and-a-coconut-plantation-goa.jpg?s=612x612&w=0&k=20&c=BE0ZCnKZj8xi9Zgx5meO77k-o8v8EPT9TwlsPvY3TMc=");
@@ -124,10 +125,25 @@
    }
 .back1{
      background-color: #D1FAE5;
-     height:100px;
+     height:150px;
      padding:25px;
+     gap:100px;
    }
    .paddingg{
     padding:25px;
     text-align:center;
    }
+.card-section{
+    background-color:aliceblue;
+    padding:10px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+.container1{
+    text-align:center;
+    padding:10px;
+    background-color:white;
+    height:100px;
+    width:100vw;
+    border-radius:25px;   
+}
