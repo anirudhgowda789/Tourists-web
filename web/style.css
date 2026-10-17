@@ -1,4 +1,4 @@
-.nav{
+.navigation-menu{
     font-family:"Roboto";
     font-size:20px;
     font-style:italic;
@@ -9,7 +9,7 @@
     text-align: left;
     background-color: white;
   }
-.main-heading1 {
+.hero-section {
     background-image: url("https://images.unsplash.com/photo-1723134091037-ec4eef4e30ff?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bmF0dXJlJTIwOGt8ZW58MHx8MHx8fDA%3D");
     background-size: cover;
     height: 80vh;
@@ -20,14 +20,14 @@
     border-bottom-right-radius: 6px;
     padding:12px;
    }
-.main-heading2 {
+.brand-logo{
     background-image:url("https://i.postimg.cc/xCfYSRYS/ani-travel-logo-cropped.png");
     background-size: cover;
     height:90px;
     width: 300px;
     text-align: left;
    }
-  .main-heading3{
+  .destination-grid{
     background-color: white;
     border-top-left-radius: 25px;
     border-top-right-radius: 25px;
@@ -129,7 +129,7 @@
      padding:25px;
      gap:100px;
    }
-   .paddingg{
+.navigation-container{
     padding:25px;
     text-align:center;
    }
