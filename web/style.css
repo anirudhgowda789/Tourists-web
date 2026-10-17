@@ -27,7 +27,7 @@
     width: 300px;
     text-align: left;
    }
-  .destination-grid{
+.destination-grid{
     background-color: white;
     border-top-left-radius: 25px;
     border-top-right-radius: 25px;
@@ -35,7 +35,7 @@
     border-bottom-right-radius: 25px;
     padding:12px;
   }
- .bt0n{
+ .destination-search{
     border-width:1px;
     border-radius:25px;
     height:46px;
@@ -44,7 +44,7 @@
     text-align:center;
 
 }  
-.btn0{
+.primary-button{
     text-align: center;
     height:36px;
     width:138px;
@@ -62,13 +62,13 @@
     border-width: 0px;
     padding:10px;  
    }
-.btn2{
+.hero-actions{
     text-align:center;
    }
-.btn3{
+.destination-actions{
     text-align:center;
    }
-.btn4{
+.secondary-button{
     text-align: center;
     height:36px;
     width:250px;
@@ -77,20 +77,20 @@
     border-radius:25px;
     border-width: 0px;
 
-}   
+}
 .text {
     font-size: 50px;
    }   
-.text2 {
+.section-title{
     font-size: 56px;
    }
-.paragraph2 {
+.hero-description {
     font-size: 20px;
     }
-.center{
+.search-container{
     text-align:center;
     }    
-.img1, .img2, .img3, .img4, .img5, .img6, .img7, .img8 {
+.destination-card1, .destination-card2, .destination-card3, .destination-card4, .destination-card5, .destination-card6, .destination-card7, .destination-card8 {
     height: 250px;
     width: 250px;
     background-size: cover;
@@ -100,30 +100,30 @@
     border-bottom-right-radius: 25px;
     background-size:cover;
     }
-.img1{
+.destination-card1{
     background-image: url("https://media.istockphoto.com/id/1157048446/photo/aerial-shot-of-the-beach-from-above-showing-sea-beach-mountain-and-a-coconut-plantation-goa.jpg?s=612x612&w=0&k=20&c=BE0ZCnKZj8xi9Zgx5meO77k-o8v8EPT9TwlsPvY3TMc=");
     }
-.img2 {
+.destination-card2 {
     background-image: url("https://media.istockphoto.com/id/505490132/photo/tea-plantations-and-river-in-hills.jpg?s=612x612&w=0&k=20&c=ipAMXQpv8OMaYWIDMqfvh56APw2BYivzarcXyeWkSGQ=");}
-.img3 {
+.destination-card3 {
     background-image: url("https://assets.justwravel.in/blog-media/2018/06/Mysore-Palace-Picture-2.jpg");
     }
-.img4 {
+.destination-card4 {
     background-image: url("https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/38/d6/05/gulaba.jpg?w=600&h=400&s=1");
     }
-.img5 {
+.destination-card5 {
     background-image: url("https://hikerwolf.com/wp-content/uploads/2020/02/Stone_Charriot_Hampi-600x400.jpg");
    }
-.img6 {
+.destination-card6 {
     background-image: url("https://alleppey-houseboat.com/wp-content/uploads/2025/02/boat1.png");
     }
-.img7 {
+.destination-card7 {
     background-image: url("https://www.authenticindiatours.com/app/uploads/2022/04/Thiksey-Monastery-Leh-Ladakh-Jammu-and-Kashmir-1400x550-c-default.jpg");
    }
-.img8 {
+.destination-card8 {
     background-image: url("https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg/1280px-East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail");
    }
-.back1{
+.benefits-section{
      background-color: #D1FAE5;
      height:150px;
      padding:25px;
@@ -133,13 +133,13 @@
     padding:25px;
     text-align:center;
    }
-.card-section{
+.destination-card-content{
     background-color:aliceblue;
     padding:10px;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
 }
-.container1{
+.benefit-card{
     text-align:center;
     padding:10px;
     background-color:white;
