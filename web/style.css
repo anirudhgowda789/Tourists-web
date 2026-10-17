@@ -73,7 +73,7 @@
 .search-container{
     text-align:center;
     }    
-.destination-card1, .destination-card2, .destination-card3, .destination-card4, .destination-card5, .destination-card6, .destination-card7, .destination-card8 {
+.destination-card-Goa, .destination-card-Kerala, .destination-card-Karnatka, .destination-card-Manali, .destination-card-Karnataka1, .destination-card-Kerala1, .destination-card_Kasmir, .destination-card-Jaipur {
     height: 250px;
     width: 250px;
     background-size: cover;
@@ -83,27 +83,27 @@
     border-bottom-right-radius: 25px;
     background-size:cover;
     }
-.destination-card1{
+.destination-card-Goa{
     background-image: url("https://media.istockphoto.com/id/1157048446/photo/aerial-shot-of-the-beach-from-above-showing-sea-beach-mountain-and-a-coconut-plantation-goa.jpg?s=612x612&w=0&k=20&c=BE0ZCnKZj8xi9Zgx5meO77k-o8v8EPT9TwlsPvY3TMc=");
     }
-.destination-card2 {
+.destination-card-Kerala {
     background-image: url("https://media.istockphoto.com/id/505490132/photo/tea-plantations-and-river-in-hills.jpg?s=612x612&w=0&k=20&c=ipAMXQpv8OMaYWIDMqfvh56APw2BYivzarcXyeWkSGQ=");}
-.destination-card3 {
+.destination-card-Karnatka {
     background-image: url("https://assets.justwravel.in/blog-media/2018/06/Mysore-Palace-Picture-2.jpg");
     }
-.destination-card4 {
+.destination-card-Manali {
     background-image: url("https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/38/d6/05/gulaba.jpg?w=600&h=400&s=1");
     }
-.destination-card5 {
+.destination-card-Karnataka1 {
     background-image: url("https://hikerwolf.com/wp-content/uploads/2020/02/Stone_Charriot_Hampi-600x400.jpg");
    }
-.destination-card6 {
+.destination-card-Kerala1 {
     background-image: url("https://alleppey-houseboat.com/wp-content/uploads/2025/02/boat1.png");
     }
-.destination-card7 {
+.destination-card_Kasmir {
     background-image: url("https://www.authenticindiatours.com/app/uploads/2022/04/Thiksey-Monastery-Leh-Ladakh-Jammu-and-Kashmir-1400x550-c-default.jpg");
    }
-.destination-card8 {
+.destination-card-Jaipur {
     background-image: url("https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg/1280px-East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail");
    }
 .benefits-section{
