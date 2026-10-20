@@ -7,14 +7,14 @@
 }
 .hero-title{
     font-family:"Robto";
-    font-size:90px;
+    font-size:50px;
     font-style:italic;
     font-style:bold;
 }
 .hero-section {
     background-image: url("https://images.unsplash.com/photo-1723134091037-ec4eef4e30ff?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bmF0dXJlJTIwOGt8ZW58MHx8MHx8fDA%3D");
     background-size: cover;
-    height: 90vh;
+    height: 80%;
     width: 100%;
     border-top-left-radius: 25px;
     border-top-right-radius: 250px;
@@ -40,22 +40,16 @@
     text-align: left;
    }
 .destination-grid{
-    background-color: white;
+    
     border-top-left-radius: 25px;
     border-top-right-radius: 25px;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
     padding:12px;
-  }
- .destination-search{
-    border-width:1px;
-    border-radius:25px;
-    height:46px;
-    width: 1000px;
-    font-family: sans-serif;
-    text-align:center;
-
-}  
+    margin-left:16px;
+    margin-right:16px;
+    margin-top:16px;
+  }  
 .primary-button{
     text-align: center;
     height:36px;
@@ -70,6 +64,9 @@
    }
 .destination-actions{
     text-align:center;
+    background-color:#E0FFC2 ;
+    margin:0px;
+    height: 100%;
    }
 .secondary-button{
     text-align: center;
@@ -79,6 +76,7 @@
     color:white;
     border-radius:25px;
     border-width: 0px;
+    margin:25px;
 }   
 .section-title{
     font-size: 56px;
@@ -98,6 +96,11 @@
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
     background-size:cover;
+    border-style:solid;
+    border-width:3px;
+    border-color:#064734;
+    margin:2%;
+
     }
 .destination-card-Goa{
     background-image: url("https://media.istockphoto.com/id/1157048446/photo/aerial-shot-of-the-beach-from-above-showing-sea-beach-mountain-and-a-coconut-plantation-goa.jpg?s=612x612&w=0&k=20&c=BE0ZCnKZj8xi9Zgx5meO77k-o8v8EPT9TwlsPvY3TMc=");
@@ -126,14 +129,15 @@
      background-color: #D1FAE5;
      height:150px;
      padding:25px;
-     gap:100px;
+     margin:0px;
+     gap:20px;
    }
 .navigation-container{
     padding:25px;
     text-align:center;
    }
 .destination-card-content{
-    background-color:aliceblue;
+    background-color: #f8f3f0;
     padding:10px;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
@@ -143,6 +147,27 @@
     padding:10px;
     background-color:white;
     height:100px;
-    width:100vw;
+    flex:1;
     border-radius:25px;   
+}
+.bg-container{
+    background-color:#E0FFC2;
+    height: 100%;
+     
+    
+}
+.tourism-discription{
+    color:beige;
+    font-family:"Roboto";
+
+}
+.bg{
+    background-color: #f8f3f0;
+    height:100%;
+}
+.tertiary-button{
+   border-style:solid;
+   border-width:10px;
+   border-color:#064734;
+   text-align:center;
 }
