@@ -33,10 +33,9 @@
     font-style:italic; 
  } 
 .brand-logo{
-    background-image:url("https://i.postimg.cc/xCfYSRYS/ani-travel-logo-cropped.png");
     background-size: cover;
     height:90px;
-    width: 300px;
+    width: 160px;
     text-align: left;
    }
 .destination-grid{
@@ -146,7 +145,7 @@
     text-align:center;
     padding:10px;
     background-color:white;
-    height:100px;
+    height:100%;
     flex:1;
     border-radius:25px;   
 }
